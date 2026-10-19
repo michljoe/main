@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-616-feat-frontend-show-a-banner-when-registry",
+    "feat/issue-655-feat-cli-read-rpc-url-and-contract-id-defaults",
+    "fix/issue-611-fix-frontend-guard-invalid-attestation",
+    "fix/issue-612-perf-frontend-pause-webgl-background-animations",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-616-feat-frontend-show-a-banner-when-registry": "main",
+    "feat/issue-655-feat-cli-read-rpc-url-and-contract-id-defaults": "main",
+    "fix/issue-611-fix-frontend-guard-invalid-attestation": "main",
+    "fix/issue-612-perf-frontend-pause-webgl-background-animations": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-616-feat-frontend-show-a-banner-when-registry",
+    "feat/issue-655-feat-cli-read-rpc-url-and-contract-id-defaults",
+    "fix/issue-611-fix-frontend-guard-invalid-attestation",
+    "fix/issue-612-perf-frontend-pause-webgl-background-animations",
+    "origin"
+  ]
+}
